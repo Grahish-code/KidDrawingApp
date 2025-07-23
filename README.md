@@ -1,0 +1,1 @@
+Trace & Draw is a fun and easy-to-use native Android app designed for kids to trace pictures, draw creatively, and share their artwork with friends! It includes 3 pencil shades, 8 vibrant colors, undo/redo options, adjustable brush size, and image upload features — all packed in a playful, kid-friendly interface.
